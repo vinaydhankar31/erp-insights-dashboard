@@ -10,8 +10,7 @@ This project presents an interactive data analytics dashboard built using Power 
 • Identify correlations between education level, performance ratings, and employee satisfaction.  
 • Provide HR managers with clear visual insights for workforce planning.
 
-## <img width="1518" height="832" alt="Screenshot 2026-03-12 225823" src="https://github.com/user-attachments/assets/1099f7ef-198b-4687-8fcb-b3c3123d9e17" />
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 Power BI (Data Visualization & Reporting)
 Microsoft SQL Server / Excel / CSV (Data Source)
 DAX & Power Query (Data Transformation & Calculations)
@@ -40,6 +39,10 @@ The dashboard helps organizations:
 - Understand employee satisfaction trends
 - Improve HR decision-making
 - Support workforce planning and performance management
+
+## Dashboard Overview
+<img width="1518" height="832" alt="Screenshot 2026-03-12 225823" src="https://github.com/user-attachments/assets/a11fa7ba-d51e-438c-9a78-85a218a689bd" />
+
 
 ## Author
 Vinay Dhankar  
